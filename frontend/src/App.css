@@ -1,0 +1,66 @@
+html,
+body,
+.App {
+  height: 100%;
+  margin: 0;
+}
+
+body{
+  background-image: url(../public/train-background.jpg);
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.app-container {
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+button.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+button.btn-primary:hover {
+background-color: #0056b3;
+border-color: #0056b3;
+}
+
+.form-group {
+margin-bottom: 1rem;
+}
+
+.results {
+margin-top: 2rem;
+}
+
+.table {
+background-color: #fff;
+}
+
+.table thead th {
+vertical-align: bottom;
+border-bottom: 2px solid #dee2e6;
+color: #495057;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+background-color: rgba(0, 0, 0, 0.05);
+}
+
+.table-hover tbody tr:hover {
+background-color: rgba(0, 0, 0, 0.075);
+}
