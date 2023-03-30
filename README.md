@@ -36,7 +36,7 @@ npm install
 1. Start the MongoDB server:
 
 create a database named train_search_app
-and collection named trainss
+and collection named trains
 
 run the command - mongod
 
