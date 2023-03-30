@@ -26,11 +26,13 @@ cd train-search-app
 2. Install frontend dependencies:
 
 cd frontend
+
 npm install
 
 3. Install backend dependencies:
 
 cd backend
+
 npm install
 
 1. Start the MongoDB server:
@@ -42,12 +44,11 @@ run the command - mongod
 
 2. Start the backend server:
 
-cd backend
+
 npm start
 
 3. In a new terminal, start the frontend server:
 
-cd frontend
 npm start
 
 4. Open your browser and visit `http://localhost:3000`.
