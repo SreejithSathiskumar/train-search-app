@@ -20,7 +20,7 @@ This application allows users to search for trains between source and destinatio
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/train-search-webapp.git
+git clone https://github.com/SreejithSathiskumar/train-search-app.git
 cd train-search-app
 
 2. Install frontend dependencies:
