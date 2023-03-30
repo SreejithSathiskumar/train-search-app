@@ -56,4 +56,4 @@ npm start
 
 To generate test data for 1000 trains and their routes, run the following command in the `backend` folder:
 
-npm run generate-test-data
+node generateTestData.js
